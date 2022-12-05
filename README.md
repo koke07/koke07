@@ -1,4 +1,4 @@
-<img width="564" alt="logo" src="https://user-images.githubusercontent.com/31372667/205667552-743ec693-dc5a-491f-a881-9e245045664d.png">
+<img width="564" alt="logo"  align="center" src="https://user-images.githubusercontent.com/31372667/205667552-743ec693-dc5a-491f-a881-9e245045664d.png">
 
 - 👋 Hi, I’m @koke07<br>
 - 🌱 I’m currently learning React JS, Angular,Rust and Go 
@@ -6,12 +6,6 @@
 - 📫 How to reach me montoyaparajorgeluis@gmail.com
 
 
-<p align="center">
-	<a href="https://twitter.com/jota0799"><img src="imgs/twitter.svg" alt="Twitter"></a>
-	<a href="https://github.com/koke07"><img src="imgs/github.svg" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/jorge-luis-montoya-parada-285357180/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-	<a href="https://koke07.github.io/"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
-</p>
 
 
 <picture>
@@ -25,6 +19,13 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=koke07&show_icons=true" />
 </picture>
+
+<p align="center">
+	<a href="https://twitter.com/jota0799"><img src="imgs/twitter.svg" alt="Twitter"></a>
+	<a href="https://github.com/koke07"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/jorge-luis-montoya-parada-285357180/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+	<a href="https://koke07.github.io/"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
+</p>
 
 <!---
 koke07/koke07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
