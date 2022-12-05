@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning React JS, Angular,Rust and Go 
 - 💞️ I’m looking to collaborate on Goland projects to learn something new for hobbie 
 - 📫 How to reach me montoyaparajorgeluis@gmail.com
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 
 
