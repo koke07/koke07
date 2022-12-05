@@ -6,6 +6,14 @@
 - 📫 How to reach me montoyaparajorgeluis@gmail.com
 
 
+<p align="center">
+	<a href="https://twitter.com/jota0799"><img src="imgs/twitter.svg" alt="Twitter"></a>
+	<a href="https://github.com/koke07"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/jorge-luis-montoya-parada-285357180/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+	<a href="https://koke07.github.io/"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
+</p>
+
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=koke07&show_icons=true&theme=dark"
