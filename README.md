@@ -33,7 +33,7 @@
 	<a href="https://koke07.github.io/"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
 </p>
 
-<img align='right' src='https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif' width='200'>
+<img align='center' src='https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif' width='500'>
 
 <!---
 koke07/koke07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
