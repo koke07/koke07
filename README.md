@@ -21,6 +21,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=koke07&show_icons=true" />
 </picture>
 
+<div style="display:flex; justify-content:space-around">
+    <img src="https://github-readme-stats.vercel.app/api?username=koke07&show_icons=true&theme=chartreuse-dark" height="180px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koke07&theme=chartreuse-dark&langs_count=8&layout=compact" height="180px">
+</div>
+
 <p align="center">
 	<a href="https://twitter.com/jota0799"><img src="imgs/twitter.svg" alt="Twitter"></a>
 	<a href="https://github.com/koke07"><img src="imgs/github.svg" alt="GitHub"></a>
