@@ -24,7 +24,6 @@
 <div style="display:flex; justify-content:space-around">
     <img src="https://github-readme-stats.vercel.app/api?username=koke07&show_icons=true&theme=chartreuse-dark" height="180px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koke07&theme=chartreuse-dark&langs_count=8&layout=compact" height="180px">
-    <img align='right' src='https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif' width='200'>
 </div>
 
 <p align="center">
@@ -33,6 +32,8 @@
 	<a href="https://www.linkedin.com/in/jorge-luis-montoya-parada-285357180/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 	<a href="https://koke07.github.io/"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
 </p>
+
+<img align='right' src='https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif' width='200'>
 
 <!---
 koke07/koke07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
