@@ -1,4 +1,4 @@
-<img width="564" alt="logo"  align="center" src="https://user-images.githubusercontent.com/31372667/205667552-743ec693-dc5a-491f-a881-9e245045664d.png">
+<img width="1064" alt="logo"  align="center" src="https://user-images.githubusercontent.com/31372667/205667552-743ec693-dc5a-491f-a881-9e245045664d.png">
 ---
 
 - 👋 Hi, I’m Jorge Luis<br>
