@@ -1,4 +1,7 @@
-<img width="1064" alt="logo"  align="center" src="https://user-images.githubusercontent.com/31372667/205667552-743ec693-dc5a-491f-a881-9e245045664d.png">
+<!----<img width="1064" alt="logo"  align="center" src="https://user-images.githubusercontent.com/31372667/205667552-743ec693-dc5a-491f-a881-9e245045664d.png">---->
+
+![desarrollador_front_end](https://user-images.githubusercontent.com/31372667/210628951-344de7f8-1510-48d4-b7d2-f04656b0b3c5.png)
+
 ---
 
 - 👋 Hi, I’m Jorge Luis<br>
