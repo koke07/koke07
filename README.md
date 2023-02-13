@@ -52,7 +52,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{koke07}/count.svg" alt="koke07 :: Visitor's Count" /></p>
 
-<picture>
+<!-------<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=koke07&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
@@ -61,12 +61,12 @@
   srcset="https://github-readme-stats.vercel.app/api?username=koke07&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-</picture>
+</picture>--------->
 
-<div style="display:flex; justify-content:space-around">
+<!-----<div style="display:flex; justify-content:space-around">
     <img src="https://github-readme-stats.vercel.app/api?username=koke07&show_icons=true&theme=chartreuse-dark" height="180px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koke07&theme=chartreuse-dark&langs_count=8&layout=compact" height="180px">
-</div>
+</div>------->
 
 <p align="center">
 	<a href="https://twitter.com/jota0799"><img src="imgs/twitter.svg" alt="Twitter"></a>
